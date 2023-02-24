@@ -9,8 +9,3 @@ Feature: Amazon Cart functionality
      When User navigates to cart and clicks on cart
      Then Verify item WENMOTDY Teddy Bear Plush Toy Stuffed Animal is inside the Shopping Cart
 
-I was trying to do my best but Nik said it is not correct way
-to identify the item name because item can be removed from the page.
-He said that we will talk about that on Saturday, if no- may
-you please explain how to deal with specific item.
-Thanks a lot!!! :)
