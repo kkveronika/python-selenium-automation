@@ -1,9 +1,9 @@
 from selenium.webdriver.common.by import By
 from behave import given, when, then
 
-@given('Open amazon.com')
-def open_amazon(context):
-    context.driver.get('https://www.amazon.com/')
+#@given('Open amazon.com')
+#def open_amazon(context):
+    #context.driver.get('https://www.amazon.com/')
 
 @when('User clicks the cart icon')
 def user_clicks_the_cart_icon(context):
