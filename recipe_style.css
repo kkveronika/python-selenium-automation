@@ -1,0 +1,32 @@
+h1 {
+    color:blue;
+    background-color: bisque;
+    font-family: Comic Sans MS;
+    text-align: center;
+}
+div.instructions {
+    background-image: url('background_img_recipe.jpg');
+}
+span.ingridients {
+    color: forestgreen;
+    font-size: 34px;
+}
+span.ingridients {
+    background-color:#c0f0cd
+}
+body{
+    margin: 20px;
+    border: 30px;
+}
+table.food {
+    background-color:#eddadd
+}
+div.instructions ol{
+    font-family: Comic Sans MS;
+    background-color: lavender;
+    color:darkolivegreen;
+}
+table.food li{
+    color: #16612a;
+    font-family: Copperplate Gothic Light
+}
