@@ -87,5 +87,5 @@ def two_smallest_elements(list):
 
 
 list= [198, 3, 4, 9, 10, 9, 2]
-print(two_smallest_elements(list))
+#print(two_smallest_elements(list))
 
